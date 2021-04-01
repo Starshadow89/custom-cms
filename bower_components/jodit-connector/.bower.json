@@ -1,0 +1,15 @@
+{
+  "name": "jodit-connector",
+  "homepage": "https://github.com/xdan/jodit-connectors",
+  "version": "3.0.69",
+  "_release": "3.0.69",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.0.69",
+    "commit": "04dd1e2a6b6e33b66ec61ede01e17ddd72347a89"
+  },
+  "_source": "https://github.com/xdan/jodit-connectors.git",
+  "_target": "^3.0.69",
+  "_originalSource": "jodit-connector",
+  "_direct": true
+}

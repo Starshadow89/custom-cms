@@ -1,0 +1,23 @@
+{
+  "name": "custom-cms",
+  "authors": [
+    "Starshadow89 <jesus.castro89@gmail.com>"
+  ],
+  "description": "A custom-cms for universities",
+  "main": "",
+  "keywords": [
+    "cms",
+    "data",
+    "news",
+    "events"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

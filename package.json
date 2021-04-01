@@ -1,0 +1,15 @@
+{
+  "name": "custom-cms",
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Starshadow89 <jesus.castro89@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
